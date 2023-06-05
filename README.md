@@ -1,9 +1,9 @@
 # Resverse_proxy_ngnix
 
-##############################################################################################################
+#########################################################################################################
 There are three Dockers involved in this demo. 
 NGNIX-FLASK-Destination 
-###############################################################################################################################
+#########################################################################################################
 How to create Docker Images? (You must be in the directory to create the image or use the relative path)
 sudo docker build -t client-container .
 sudo docker build -t ngnix-container .
